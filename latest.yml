@@ -1,0 +1,8 @@
+version: 1.0.70
+files:
+  - url: DuskClientSetup.exe
+    sha512: WS03gClzx2HfEgF00atafXjWbIOTdjkGcyOhy6Xzk//WsOIjhiLn2U2QgDzSCVgueS1NzLzQwDpba1tsrl73CQ==
+    size: 137636336
+path: DuskClientSetup.exe
+sha512: WS03gClzx2HfEgF00atafXjWbIOTdjkGcyOhy6Xzk//WsOIjhiLn2U2QgDzSCVgueS1NzLzQwDpba1tsrl73CQ==
+releaseDate: '2026-08-05T10:00:25.483Z'
